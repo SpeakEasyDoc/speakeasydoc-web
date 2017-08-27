@@ -1,0 +1,32 @@
+{
+  "name": "speakeasydoc_web",
+  "version": "1.0.0",
+  "description": "Website for SpeakEasyDoc.io",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "surge": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeakEasyDoc/speakeasydoc-web.git"
+  },
+  "keywords": [
+    "Signal",
+    "Protocol",
+    "Hyperpad",
+    "E2EE"
+  ],
+  "author": "SpeakEasyDoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpeakEasyDoc/speakeasydoc-web/issues"
+  },
+  "homepage": "https://github.com/SpeakEasyDoc/speakeasydoc-web#readme"
+}
