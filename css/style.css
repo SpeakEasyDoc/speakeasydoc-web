@@ -490,7 +490,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container {
-  background: url(../img/lock_circuit_encryption.jpg) left top no-repeat;
+  background: url(../img/SpeakEasyDoc_LiveEdit.png) left top no-repeat;
+  background-size: 500px; 
 }
 
 #about .about-content {
